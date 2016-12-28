@@ -5,5 +5,5 @@ letterNumCheck_Func.py :
 the python module that defines all the functions to do the input format checking.
 
 noteFreq_Main.py : 
-the main() program that can tell the user the exact frequency of a note (on the piano, e.g. B6) based
+the main() program that can tell the user the exact frequency of a note (on the piano, e.g. B6)
 entered by the user and the input format checker is handled by the module 'letterNumCheck_Func.py'.
