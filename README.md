@@ -1,5 +1,5 @@
 # Input_Handler_python
-A robust python module handling all types of input: if the format of the input is not satisfied, the main() program will ask the user to re-enter a valid input;
+A python module handling all types of input: if the format of the input is not satisfied, the main() program will ask the user to re-enter a valid input;
 
 letterNumCheck_Func.py : 
 the python module that defines all the functions to do the input format checking.
